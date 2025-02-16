@@ -22,7 +22,7 @@ Una aplicación móvil desarrollada con Flutter que muestra posts desde una API 
 
 2. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tuusuario/flutter-posts-app.git
+   git clone https://github.com/guelo0987/PostsAppFlutter.git
    cd flutter-posts-app
    ```
 
