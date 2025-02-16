@@ -9,8 +9,7 @@ void main() {
     MultiProvider(
       providers: [
         ChangeNotifierProvider(
-            create: (_) => HandlePostsApi()), // Asegúrate de que está aquí
-      ],
+            create: (_) => HandlePostsApi()),],
       child: MyApp(),
     ),
   );
